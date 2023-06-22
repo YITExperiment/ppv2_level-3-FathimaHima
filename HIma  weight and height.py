@@ -6,10 +6,10 @@ Hello,World!
 What is your name?Hima
 Hello Hima
 >>> age=15
->>> priny(age)
+>>> print(age)
 Traceback (most recent call last):
   File "<pyshell#1>", line 1, in <module>
-    priny(age)
+    print(age)
 NameError: name 'priny' is not defined. Did you mean: 'print'?
 >>> age=15
 >>> print(age)
